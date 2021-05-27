@@ -20,12 +20,14 @@ https://user-images.githubusercontent.com/67968387/119513245-01ad6780-bdaf-11eb-
 
 
 2. プログラム実行
+ - 翻訳精度の高い英文を取得
 
 https://user-images.githubusercontent.com/67968387/119513691-649efe80-bdaf-11eb-91c2-489c244a23cc.mov
 
 
 
 3. 出力された英文をDeepLへ
+ - 変なところで改行されなくなった！
 
 https://user-images.githubusercontent.com/67968387/119514102-b9db1000-bdaf-11eb-88f3-8ebddd5ac8b5.mov
 
